@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Programme-Principal/src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.base.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.controls.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.fxml.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.graphics.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.media.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.swing.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx.web.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javaFX/Windows/lib/javafx-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
